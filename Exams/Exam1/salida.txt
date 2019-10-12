@@ -1,0 +1,18 @@
+Directory: dir1/dir2/dir3
+Occupied space: 8604967
+Total files: 3
+Min. file name: file13.txt - size: 1050
+Max. file name: file07.jpg - size: 8299868
+
+Directory: dir1/dir2
+Occupied space: 13986901
+Total files: 5
+Min. file name: image10.txt - size: 697
+Max. file name: file08.jpg - size: 4434094
+
+Directory: dir1
+Occupied space: 25580565
+Total files: 5
+Min. file name: image09.txt - size: 281
+Max. file name: file01.jpg - size: 8376894
+
