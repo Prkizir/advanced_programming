@@ -1,0 +1,50 @@
+Name: chapter2.txt
+Path: dir1
+Last access: Tue Jun  4 11:51:30 2019
+Last modification: Wed May  8 11:03:18 2019
+
+Name: chapter1.txt
+Path: dir1
+Last access: Tue Jun  4 11:51:29 2019
+Last modification: Wed May  8 12:02:50 2019
+
+Name: chapter3.txt
+Path: dir1/dir2
+Last access: Tue Jun  4 11:51:29 2019
+Last modification: Wed May  8 11:03:44 2019
+
+Name: chapter4.txt
+Path: dir1/dir2
+Last access: Tue Jun  4 11:51:30 2019
+Last modification: Wed May  8 11:04:33 2019
+
+Name: chapter6.txt
+Path: dir1/dir2/dir3
+Last access: Tue Jun  4 11:51:30 2019
+Last modification: Wed May  8 11:06:35 2019
+
+Name: chapter5.txt
+Path: dir1/dir2/dir3
+Last access: Tue Jun  4 11:51:30 2019
+Last modification: Wed May  8 11:05:28 2019
+
+Name: chapter8.txt
+Path: dir1/dir2/dir3/dir4
+Last access: Tue Jun  4 11:51:29 2019
+Last modification: Wed May  8 11:08:32 2019
+
+Name: chapter7.txt
+Path: dir1/dir2/dir3/dir4
+Last access: Tue Jun  4 11:51:29 2019
+Last modification: Wed May  8 11:07:24 2019
+
+Name: chapter9.txt
+Path: dir1/dir2/dir3/dir4/dir5
+Last access: Tue Jun  4 11:51:29 2019
+Last modification: Wed May  8 11:09:09 2019
+
+Name: chapter10.txt
+Path: dir1/dir2/dir3/dir4/dir5
+Last access: Tue Jun  4 11:51:29 2019
+Last modification: Wed May  8 11:16:29 2019
+
