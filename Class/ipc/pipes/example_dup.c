@@ -28,7 +28,6 @@ int main(int argc, char *argv[]) {
   printf("FD = %i\n", aux);
 
 
-
   scanf("%i %i", &inf, &sup);
 
   while(inf != 0 && sup != 0){
